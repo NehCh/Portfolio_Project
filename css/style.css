@@ -1,14 +1,16 @@
-.Header-container{
+.Header-container {
 	width: 75%;
 	margin-left: auto;
 	margin-right: auto;
 	height: auto;
 	margin-top: 60px;
 }
-.Header-logo{
+
+.Header-logo {
 	float: left;
 }
-.Name{
+
+.Name {
 	text-align: right;
 	float: right;
 	font-size: 50px;
@@ -19,7 +21,8 @@
     -webkit-text-stroke-width: 3px;
     text-transform: uppercase;
 }
-.Designation{
+
+.Designation {
 	clear: right;
 	float: right;
 	text-align: right;
@@ -30,26 +33,31 @@
 	margin-bottom: 20px;
 	text-transform: uppercase;
 }
-.Divider{
+
+.Divider {
 	width: 100%; 
 	height: 2px; 
 	background: #7d97ad; 
 }
-.Sub-container{
+
+.Sub-container {
 	width: 75%;
 	margin-left: auto;
 	margin-right: auto;
 }
-.Main-image{
+
+.Main-image {
 	margin-top: 20px;
 	width: 100%;
 	height: auto;
 }
-.Flex{
+
+.Flex {
 	display: flex;
 	flex-wrap: wrap;
 }
-.Work{
+
+.Work {
 	clear: right;
 	font-size: 30px;
 	text-align: left;
@@ -60,10 +68,12 @@
 	margin-left: 10px;
 	font-weight: normal;
 }
-.Link{
+
+.Link {
 	font-family: "Open-sans", sans-serif;
 }
-.Box12{
+
+.Box12 {
 	float: left;
 	font-size: 30px;
 	text-align: center;
@@ -74,7 +84,8 @@
 	color: #2d3c49;
 	margin-bottom: 40px;
 }
-.Box3{
+
+.Box3 {
 	float: right;
 	font-size: 30px;
 	text-align: center;
@@ -84,43 +95,53 @@
 	color: #2d3c49;
 	margin-bottom: 40px;
 }
-.Header{
+
+.Header {
 	font-weight: normal; 
 	margin: 0px;
 	text-transform: uppercase;
 }
-.Links{
+
+.Links {
 	font-size: 15px;
 	color: #2d3c49;
 	text-decoration: none;
 }
-.Img{
+
+.Img {
 	width: 100%;
 	margin-bottom: 20px;
 }
+
 @media screen and (max-width: 800px){
-	#my-name{
+	#my-name {
 		font-size: 35px;
 		-webkit-text-stroke-width: 1px;
 	}
-	#my-designation{
+
+	#my-designation {
 		margin: auto;
 	}
-	#logo{
+
+	#logo {
 		margin: auto;
 	}
-	#work-title{
+
+	#work-title {
 		text-align: center;
 	}
-	#part1{
+
+	#part1 {
 		margin: auto;
 		margin-bottom: 15px;
 	}
-	#part2{
+
+	#part2 {
 		margin: auto;
 		margin-bottom: 15px;
 	}
-	#part3{
+
+	#part3 {
 		margin: auto;
 		margin-bottom: 15px;
 	}
