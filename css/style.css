@@ -1,4 +1,4 @@
-.Header-container {
+.header-container {
 	width: 75%;
 	margin-left: auto;
 	margin-right: auto;
@@ -6,11 +6,11 @@
 	margin-top: 60px;
 }
 
-.Header-logo {
+.header-logo {
 	float: left;
 }
 
-.Name {
+.name {
 	text-align: right;
 	float: right;
 	font-size: 50px;
@@ -22,7 +22,7 @@
     text-transform: uppercase;
 }
 
-.Designation {
+.designation {
 	clear: right;
 	float: right;
 	text-align: right;
@@ -34,30 +34,30 @@
 	text-transform: uppercase;
 }
 
-.Divider {
+.divider {
 	width: 100%;
 	height: 2px;
 	background: #7d97ad;
 }
 
-.Sub-container {
+.sub-container {
 	width: 75%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.Main-image {
+.main-image {
 	margin-top: 20px;
 	width: 100%;
 	height: auto;
 }
 
-.Flex {
+.flex {
 	display: flex;
 	flex-wrap: wrap;
 }
 
-.Work {
+.work {
 	clear: right;
 	font-size: 30px;
 	text-align: left;
@@ -69,11 +69,11 @@
 	font-weight: normal;
 }
 
-.Link {
+.link {
 	font-family: "Open-sans", sans-serif;
 }
 
-.Box12 {
+.box12 {
 	float: left;
 	font-size: 30px;
 	text-align: center;
@@ -87,7 +87,7 @@
 	margin-top: 0px;
 }
 
-.Box3 {
+.box3 {
 	font-size: 30px;
 	text-align: center;
 	width: 295px;
@@ -100,24 +100,24 @@
 	margin-top: 0px;
 }
 
-.Header {
+.header {
 	font-weight: normal;
 	margin: 0px;
 	text-transform: uppercase;
 }
 
-.Links {
+.links {
 	font-size: 15px;
 	color: #2d3c49;
 	text-decoration: none;
 }
 
-.Img {
+.img {
 	width: 100%;
 	margin-bottom: 20px;
 }
 
-.Footer {
+.footer {
 	width: 10%;
 	margin-left: auto;
 	margin-right: auto;
